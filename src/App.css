@@ -1,0 +1,10 @@
+@import "./styles/grid.css";
+@import "./styles/reboots.css";
+@import "./styles/header.css";
+@import "./styles/home.css";
+@import "./styles/footer.css";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Nunito:wght@500&display=swap');
+.App {
+    min-height: 100vh;
+}
+
